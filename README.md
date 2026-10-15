@@ -18,3 +18,18 @@ Narzędzia:
  - Terminal Linux
 
 Cel: Nauka kontroli wersji i automatyzacji DevOps.
+
+## Uruchomienie projektu
+
+1. Zainstaluj Git.
+2. Sklonuj repozytorium:
+  
+   git clone https://gitlub.com/marcinioza/github-student04.git
+   
+3. Przejdź do katalogu projektu:
+
+   cd gitgub-student04
+
+4. Sprawdź pliki projektu:
+
+   ls -la
